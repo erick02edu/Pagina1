@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+#Menu{
+    position: fixed;
+    background-color: black;
+    width: 100vw;
+    height: 12%;    
+}
+
+#Menu ul{
+    padding-top: 2%;
+    padding-left: 2%;
+}
+
+#Menu ul li{
+    list-style: none;
+    display:inline;
+    margin: 0 20px;
+}
+
+#Menu ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+#Menu ul li a:hover{
+    color: red;
+}
