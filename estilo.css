@@ -30,3 +30,14 @@
 #Menu ul li a:hover{
     color: red;
 }
+
+#slider{
+    width: 100vw;
+    height: 700px;
+    overflow: hidden;
+}
+
+#slider ul{
+    display: inline;
+}
+
